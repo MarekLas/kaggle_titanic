@@ -1,2 +1,1 @@
-# kaggle_titanic
-Titanic - Machine Learning from Disaster
+<img align="center" width ="60%" src="https://github.com/MarekLas/kaggle_titanic/blob/main/titanic2.gif" />
