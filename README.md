@@ -176,3 +176,7 @@ Key: C = Cherbourg, Q = Queenstown, S = Southampton
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/34_t_label_continous_values.jpg" align="center" width ="30%"/>
 Link to LabelEncoder() documentation: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
+
+## Select and scale the data
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/35_t_select_data_scale.png" align="center" width ="70%"/>
