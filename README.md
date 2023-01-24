@@ -175,4 +175,4 @@ Key: C = Cherbourg, Q = Queenstown, S = Southampton
 ## Let's label continous values
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/34_t_label_continous_values.jpg" align="center" width ="30%"/>
-Link to LabelEncoder() function: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
+Link to LabelEncoder() documentation: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
