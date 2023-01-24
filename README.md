@@ -78,3 +78,7 @@ https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.i
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/10_t_datatypes.JPG" align="center" width ="15%"/> 
 
+## Survived dependences
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/11_t_dependences_pairplot.jpg" align="center" width ="70%"/> 
+
