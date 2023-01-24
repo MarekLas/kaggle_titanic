@@ -132,3 +132,8 @@ Description: The sex of the passenger (male or female)
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/26_t_cat_age.png" align="center" width ="80%"/>
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/25_t_count_age_groups.JPG" align="center" width ="15%"/>
+
+## Feature SibSp
+Description: The number of siblings the passenger has aboard the Titanic
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/27_t_survival_siblings.jpg" align="center" width ="40%"/>
