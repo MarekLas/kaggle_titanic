@@ -189,6 +189,18 @@ Link to LabelEncoder() documentation: https://scikit-learn.org/stable/modules/ge
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/37_t_gridsearch.png" align="center" width ="70%"/>
 
-## Very interesting CatBoostClassifier model
+## Very interesting CatBoostClassifier
 
 Link to the documentation: https://catboost.ai/en/docs/concepts/python-reference_catboostclassifier
+
+## Accuracy metric ranking and chart
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/39_t_accuracy_table.JPG" align="center" width ="70%"/>
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/40_t_accuracy_barplot.jpg" align="center" width ="70%"/>
+
+## Accuracy metric ranking after crossvalidation and chart
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/41_t_accuracy_crossvalidation_table.JPG" align="center" width ="70%"/>
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/42_accuracy_crossvalidation_barplot.jpg" align="center" width ="70%"/>
