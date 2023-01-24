@@ -104,3 +104,9 @@ Key: 1 = 1st, 2 = 2nd, 3 = 3rd
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/17_t_dependency_sex_pclass_survived.jpg" align="center" width ="30%"/> 
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/18_t_pclass_chance_to_survive.JPG" align="center" width ="50%"/> 
+
+## Feature: Name
+Description: The name of the passenger
+
+## Feature: Sex
+Description: The sex of the passenger (male or female)
