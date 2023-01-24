@@ -218,3 +218,7 @@ Link to the documentation: https://catboost.ai/en/docs/concepts/python-reference
 * DecisionTreeClassifier
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/45_t_decisiontree_feature_importance.jpg" align="center" width ="50%"/>
+
+## Submission for the Kaggle competition
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/46_t_submission_for_the_best_model.png" align="center" width ="50%"/>
