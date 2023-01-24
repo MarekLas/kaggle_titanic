@@ -168,3 +168,4 @@ Key: C = Cherbourg, Q = Queenstown, S = Southampton
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/32_t_embarked_survival.jpg" align="center" width ="70%"/>
 
+## It's time for the one hot encoding
