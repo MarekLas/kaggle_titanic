@@ -222,3 +222,5 @@ Link to the documentation: https://catboost.ai/en/docs/concepts/python-reference
 ## Submission for the Kaggle competition
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/46_t_submission_for_the_best_model.png" align="center" width ="60%"/>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/MarekLas/kaggle_titanic)
