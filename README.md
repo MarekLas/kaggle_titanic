@@ -127,6 +127,8 @@ Description: The sex of the passenger (male or female)
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/24_t_mean_age_by_pclass.JPG" align="center" width ="20%"/>
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/25_t_count_age_groups.JPG" align="center" width ="15%"/>
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/25_t_function_fill_age_column.png" align="center" width ="80%"/>
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/26_t_cat_age.png" align="center" width ="80%"/>
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/25_t_count_age_groups.JPG" align="center" width ="15%"/>
