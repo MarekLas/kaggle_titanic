@@ -137,3 +137,11 @@ Description: The sex of the passenger (male or female)
 Description: The number of siblings the passenger has aboard the Titanic
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/27_t_survival_siblings.jpg" align="center" width ="40%"/>
+
+## Feature: Parch
+Description: The number of parent/childeren the passenger has aboard the Titinic.
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/28_t_survival_parch.jpg" align="center" width ="40%"/>
+
+## Feature: Ticket
+Description: The ticket number of the boarding passanger.
