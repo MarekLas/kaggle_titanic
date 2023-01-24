@@ -32,4 +32,8 @@ While there was some element of luck involved in surviving, it seems some groups
   Child = daughter, son, stepdaughter, stepson
   Some children travelled only with a nanny, therefore parch=0 for them.
   
-Link: https://www.kaggle.com/competitions/titanic/overview
+Link to Kaggle: https://www.kaggle.com/competitions/titanic/overview
+
+## Link to the script
+
+https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.ipynb
