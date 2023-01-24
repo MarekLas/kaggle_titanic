@@ -180,3 +180,15 @@ Link to LabelEncoder() documentation: https://scikit-learn.org/stable/modules/ge
 ## Select and scale the data
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/35_t_select_data_scale.png" align="center" width ="70%"/>
+
+## Function for the models
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/36_t_function_for_models.png" align="center" width ="70%"/>
+
+## GridSearch() example
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/37_t_gridsearch.png" align="center" width ="70%"/>
+
+## Very interesting CatBoostClassifier model
+
+Link to the documentation: https://catboost.ai/en/docs/concepts/python-reference_catboostclassifier
