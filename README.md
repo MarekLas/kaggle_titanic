@@ -118,3 +118,11 @@ Description: The sex of the passenger (male or female)
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/20_t_age_distribution.jpg" align="center" width ="40%"/> 
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/21_t_sex_age_survived.jpg" align="center" width ="40%"/> 
+
+### Missing Age values
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/22_t_missing_age_values.jpg" align="center" width ="30%"/>
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/23_t_pclass_survived_sex.jpg" align="center" width ="30%"/>
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/24_t_mean_age_by_pclass.JPG" align="center" width ="15%"/>
