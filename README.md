@@ -62,8 +62,8 @@ https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.i
 
 ## Data information
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/06_t_info.JPG" align="center" width ="70%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/06_t_info.JPG" align="center" width ="30%"/> 
 
 ## Data describe
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/07_t_describe.JPG" align="center" width ="70%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/07_t_describe.JPG" align="center" width ="30%"/> 
