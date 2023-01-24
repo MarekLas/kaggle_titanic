@@ -72,6 +72,6 @@ https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.i
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/08_t_missing_values.jpg" align="center" width ="90%"/> 
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/09_t_is_null.jpg" align="center" width ="20%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/09_t_is_null.jpg" align="center" width ="15%"/> 
 
 
