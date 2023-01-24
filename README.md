@@ -82,3 +82,7 @@ https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.i
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/11_t_dependences_pairplot.jpg" align="center" width ="70%"/> 
 
+## Gender dependences
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/12_t_dependeces_pairplot_sex.jpg" align="center" width ="70%"/> 
+
