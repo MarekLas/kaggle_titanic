@@ -145,3 +145,12 @@ Description: The number of parent/childeren the passenger has aboard the Titinic
 
 ## Feature: Ticket
 Description: The ticket number of the boarding passanger.
+
+## Feature: Fare
+Description: How much the ticket cost.
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/29_t_fare_distribution.jpg" align="center" width ="50%"/>
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/29b_t_fare_groups.jpg" align="center" width ="20%"/>
+
+
