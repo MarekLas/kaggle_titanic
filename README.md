@@ -110,3 +110,5 @@ Description: The name of the passenger
 
 ## Feature: Sex
 Description: The sex of the passenger (male or female)
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/19_t_sex_survived_count.JPG" align="center" width ="70%"/> 
