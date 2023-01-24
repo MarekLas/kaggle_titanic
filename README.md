@@ -100,3 +100,7 @@ Description: The ticket class of the passanger.
 Key: 1 = 1st, 2 = 2nd, 3 = 3rd
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/15_t_pclass_survived_count.jpg" align="center" width ="70%"/> 
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/17_t_dependency_sex_pclass_survived.jpg" align="center" width ="30%"/> 
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/18_t_pclass_chance_to_survive.JPG" align="center" width ="50%"/> 
