@@ -58,7 +58,12 @@ https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.i
 
 * gender submision
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/05_t_sample_gender_submision.JPG" align="center" width ="17%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/05_t_sample_gender_submision.JPG" align="center" width ="16%"/> 
 
+## Data information
 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/06_t_info.JPG" align="center" width ="70%"/> 
 
+## Data describe
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/07_t_describe.JPG" align="center" width ="70%"/> 
