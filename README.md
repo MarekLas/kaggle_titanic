@@ -86,3 +86,17 @@ https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.i
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/12_t_dependeces_pairplot_sex.jpg" align="center" width ="70%"/> 
 
+## Correlation matrix
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/13_t_heatmap.jpg" align="center" width ="50%"/> 
+
+## Survived count
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/14_t_survived_count.jpg" align="center" width ="70%"/> 
+
+## Feature: Pclass
+Description: The ticket class of the passanger.
+
+Key: 1 = 1st, 2 = 2nd, 3 = 3rd
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/15_t_pclass_survived_count.jpg" align="center" width ="70%"/> 
