@@ -156,4 +156,15 @@ Description: How much the ticket cost.
 ## Feature: Cabin
 Description: The cabin number where the passanger was staying.
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/29c_t_drop_cabin.png" align="center" width ="50%"/>
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/29c_t_drop_cabin.png" align="center" width ="60%"/>
+
+## Feature: Embarked
+Description: The port where the passenger baoarded the Titinic.
+Key: C = Cherbourg, Q = Queenstown, S = Southampton
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/30_t_embarked_missing.jpg" align="center" width ="70%"/>
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/31_t_fill_embarked.png" align="center" width ="50%"/>
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/32_t_embarked_survival.jpg" align="center" width ="70%"/>
+
