@@ -153,4 +153,7 @@ Description: How much the ticket cost.
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/29b_t_fare_groups.jpg" align="center" width ="20%"/>
 
+## Feature: Cabin
+Description: The cabin number where the passanger was staying.
 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/29c_t_drop_cabin.png" align="center" width ="50%"/>
