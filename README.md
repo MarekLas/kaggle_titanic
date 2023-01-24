@@ -205,4 +205,16 @@ Link to the documentation: https://catboost.ai/en/docs/concepts/python-reference
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/42_accuracy_crossvalidation_barplot.jpg" align="center" width ="50%"/>
 
-## Feature importance for: CatBoostClassifier, GradientBoostClassifier and DecisionTreeClassifier
+## Feature importance 
+
+* CatBoostClassifier
+ 
+ <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/43_t_catboost_feature_importance.jpg" align="center" width ="50%"/>
+ 
+* GradientBoostClassifier
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/44_t_gradientboost_feature_importance.jpg" align="center" width ="50%"/>
+
+* DecisionTreeClassifier
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/45_t_decisiontree_feature_importance.jpg" align="center" width ="50%"/>
