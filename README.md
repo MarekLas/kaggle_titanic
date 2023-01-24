@@ -74,4 +74,7 @@ https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.i
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/09_t_is_null.jpg" align="center" width ="15%"/> 
 
+## Data types
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/10_t_datatypes.JPG" align="center" width ="15%"/> 
 
