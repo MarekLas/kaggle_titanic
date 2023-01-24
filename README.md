@@ -41,3 +41,24 @@ https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.i
 ## Modules used in the script
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/01_t_modules.png" align="center" width ="70%"/> 
+
+## Import and copy data
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/02_t_import_and_copy_data.png" align="center" width ="70%"/> 
+
+## Data sample
+
+* training data set
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/03_t_sample_train_data.JPG" align="center" width ="70%"/> 
+
+* test data set
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/04_t_sample_test_data.JPG" align="center" width ="60%"/> 
+
+* gender submision
+
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/05_t_sample_gender_submision.JPG" align="center" width ="17%"/> 
+
+
+
