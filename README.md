@@ -199,7 +199,7 @@ Link to the documentation: https://catboost.ai/en/docs/concepts/python-reference
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/40_t_accuracy_barplot.jpg" align="center" width ="50%"/>
 
-## Accuracy metric ranking after crossvalidation and chart
+## Accuracy metric ranking and chart after crossvalidation
 
 <img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/41_t_accuracy_crossvalidation_table.JPG" align="center" width ="20%"/>
 
