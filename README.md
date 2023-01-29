@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/MarekLas/kaggle_titanic)
+
 <img align="center" width ="100%" src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/titanic4.gif" />
 
 # Titanic - Machine Learning from Disaster
