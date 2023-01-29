@@ -36,9 +36,9 @@ While there was some element of luck involved in surviving, it seems some groups
   
 Link to Kaggle: https://www.kaggle.com/competitions/titanic/overview
 
-## Link to the script
+## <b>Link to the script</b>
 
-https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.ipynb
+<b>https://github.com/MarekLas/kaggle_titanic/blob/main/ipynb/Titanic_Kaggle_2023.ipynb</b>
 
 ## Modules used in the script
 
