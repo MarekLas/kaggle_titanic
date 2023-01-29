@@ -38,7 +38,7 @@ Link to Kaggle: https://www.kaggle.com/competitions/titanic/overview
 
 ## <b>Link to the script</b>
 
-<b>https://github.com/MarekLas/kaggle_titanic/blob/main/scripts/Titanic_Kaggle_2023.ipynb</b>
+### <b>https://github.com/MarekLas/kaggle_titanic/blob/main/scripts/Titanic_Kaggle_2023.ipynb</b>
 
 ## Modules used in the script
 
