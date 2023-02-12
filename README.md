@@ -64,7 +64,7 @@ Link to Kaggle: https://www.kaggle.com/competitions/titanic/overview
 
 ## Data information
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/06_t_info.JPG" align="center" width ="20%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/06_t_info.JPG" align="center" width ="30%"/> 
 
 ## Data describe
 
