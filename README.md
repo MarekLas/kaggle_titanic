@@ -52,11 +52,11 @@ Link to Kaggle: https://www.kaggle.com/competitions/titanic/overview
 
 * training data set
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/03_t_sample_train_data.JPG" align="center" width ="70%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/03_t_sample_train_data.JPG" align="center" width ="80%"/> 
 
 * test data set
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/04_t_sample_test_data.JPG" align="center" width ="60%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/04_t_sample_test_data.JPG" align="center" width ="65%"/> 
 
 * gender submision
 
