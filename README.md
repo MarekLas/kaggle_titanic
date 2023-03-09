@@ -46,7 +46,7 @@ Link to Kaggle: https://www.kaggle.com/competitions/titanic/overview
 
 ## Import and copy data
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/02_t_import_and_copy_data.png" align="center" width ="75%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/02_t_import_and_copy_data.png" align="center" width ="80%"/> 
 
 ## Data sample
 
