@@ -42,7 +42,7 @@ Link to Kaggle: https://www.kaggle.com/competitions/titanic/overview
 
 ## Modules used in the script
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/01_t_modules.png" align="center" width ="71%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/01_t_modules.png" align="center" width ="70"/> 
 
 ## Import and copy data
 
