@@ -60,7 +60,7 @@ Link to Kaggle: https://www.kaggle.com/competitions/titanic/overview
 
 * gender submision
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/05_t_sample_gender_submision.JPG" align="center" width ="16%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/05_t_sample_gender_submision.JPG" align="center" width ="15%"/> 
 
 ## Data information
 
