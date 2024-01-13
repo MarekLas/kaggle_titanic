@@ -14,7 +14,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 ## Data Dictionary
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/data_dictionary.JPG" align="center" width ="70%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/data_dictionary.JPG" align="center" width ="71%"/> 
 
 * embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
   Variable Notes
