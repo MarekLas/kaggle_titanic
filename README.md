@@ -52,7 +52,7 @@ Link to Kaggle: https://www.kaggle.com/competitions/titanic/overview
 
 * training data set
 
-<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/03_t_sample_train_data.JPG" align="center" width ="80%"/> 
+<img src="https://github.com/MarekLas/kaggle_titanic/blob/main/readme_files/03_t_sample_train_data.JPG" align="center" width ="81%"/> 
 
 * test data set
 
